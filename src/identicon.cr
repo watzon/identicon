@@ -121,5 +121,3 @@ module Identicon
     buffer
   end
 end
-
-puts Identicon.create_base64("myemailaddress@gmail.com")

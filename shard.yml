@@ -1,0 +1,17 @@
+name: identicon
+version: 0.1.0
+
+authors:
+  - Chris Watson <cawatson1993@gmail.com>
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: "~> 4.5"
+  stumpy_utils:
+    github: watzon/stumpy_utils
+    branch: master
+
+crystal: 0.34.0
+
+license: MIT
